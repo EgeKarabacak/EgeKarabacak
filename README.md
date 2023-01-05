@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EgeKarabacak
-- 👀 I’m interested in App developement and Full stack web
+- 👀 I’m interested in App and Full stack web developement
 - 🌱 I’m currently learning Svelte kit
 
 <!---
