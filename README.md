@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgeKarabacak
-- 👀 I’m interested in App and Full stack web developement
-- 🌱 I’m currently learning SvelteKit and Unreal Engine
+- 👀 I’m a Recent graduate in Computer Science from Carleton University
+
 
 <!---
 EgeKarabacak/EgeKarabacak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
