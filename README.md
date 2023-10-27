@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @EgeKarabacak
 - 👀 I’m a Recent graduate in Computer Science from Carleton University
 - I am currently looking for work.
-- ![Twitch Status](https://img.shields.io/twitch/status/:user?link=ege-karabacak.com)
+- 
 
 
   
