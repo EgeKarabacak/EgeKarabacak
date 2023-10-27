@@ -3,6 +3,7 @@
 ## About me
 - 👋 Hi, I’m @EgeKarabacak
 - 👀 I’m a Recent graduate in Computer Science from Carleton University
+- I am currently looking for work.
 
   
 
