@@ -5,14 +5,6 @@
 ## About me
 - 👋 Hi, I’m @EgeKarabacak
 - 👀 I’m a Recent graduate in Computer Science from Carleton University
-- I am currently looking for work.
-### Here are my Socials
-
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
-
-
-  
-
 
 <!---
 EgeKarabacak/EgeKarabacak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
