@@ -4,7 +4,7 @@
 - 👀 I’m a Recent graduate in Computer Science from Carleton University
   
 <div align="center"> 
-	  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+	  <a href="https://linkedin.com/in/ege-karabacak" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 	  </a>
 	  <a href="https://ege-karabacak.com" target="_blank">
