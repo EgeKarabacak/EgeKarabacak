@@ -3,9 +3,10 @@
 ## About me
 - 👀 I’m a Recent graduate in Computer Science from Carleton University
   
-![image](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
 <div align="center"> 
+	<span>
 		<img src="(https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
+	</span>
 	  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 	  </a>
