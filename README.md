@@ -4,7 +4,7 @@
 
 <br/>
 
- <div aling="center">
+ <div align="center">
 	- 👀 I’m a Recent graduate in Computer Science from Carleton University	 
  </div>
 
