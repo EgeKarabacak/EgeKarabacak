@@ -8,7 +8,7 @@
 	- 👀 I’m a Recent graduate in Computer Science from Carleton University	 
  </div>
 
-<hr/>
+<br/>
   
 <div align="center"> 
 	  <a href="https://linkedin.com/in/ege-karabacak" target="_blank">
