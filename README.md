@@ -7,7 +7,7 @@
 <br/>
 
  <div align="center">
-	- 👀 I’m a Recent graduate in Computer Science from Carleton University	 
+	- 👀 I’m a Recent Computer Science from Carleton Univeristy
  </div>
 
 <br/>
