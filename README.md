@@ -7,7 +7,7 @@
 <br/>
 
  <div align="center">
-	- 👀 I’m a Recent Computer Science from Carleton Univeristy
+	- 👀 I am a Full-Stack Developer from Ottawa,ON. I have interests in Cloud technologies, Web Development and creating useful UI/UX on the web.
  </div>
 
 <br/>
