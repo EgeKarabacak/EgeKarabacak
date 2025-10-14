@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src = "https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%2C" alt="typing-svg" />
+	<img src = "https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=FFFFFF&random=false&width=240&lines=Hello+there" alt="typing-svg" />
 </h1>
 
 <h3 align="center">About Me</h3>
