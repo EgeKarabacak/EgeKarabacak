@@ -7,7 +7,7 @@
 <br/>
 
  <div align="center">
-	- 👀 I am a Full-Stack Developer from Ottawa,ON. I have interests in Cloud technologies, Web Development and Game Development.
+	- 👀 I am a Full-Stack Developer from Ottawa,ON. My background is in embedded systems and low level drivers but I have interests in Cloud technologies, Web Development and Game Development.
  </div>
 
 <br/>
@@ -15,9 +15,6 @@
 <div align="center"> 
 	  <a href="https://linkedin.com/in/ege-karabacak" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-	  </a>
-	  <a href="https://ege-karabacak.com" target="_blank">
-		 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 	  </a>
 </div>
 <!---
